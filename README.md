@@ -13,4 +13,5 @@ Model Training: The model was trained on a labeled dataset of soil images, using
 
 Deployment and Testing: The trained model was deployed to classify new soil images. The results include percentage-based classifications and visualizations to provide clear insights into the predictions. The model was tested extensively with various images to ensure accurate predictions and practical application.
 
-Getting Started
+
+
